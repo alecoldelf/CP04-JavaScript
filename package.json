@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alecoldelf/CP04-JavaScript.git"
+    "url": "git+https://github.com/alecoldelf/CP04-JavaScript-Ver1.git"
   },
   "keywords": [
     "fakename"
@@ -17,7 +17,7 @@
   "author": "Alexandre Colvet, Felipe Molinari, Enzo Luciano, Livia Pereira",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/alecoldelf/CP04-JavaScript/issues"
+    "url": "https://github.com/alecoldelf/CP04-JavaScript-Ver1/issues"
   },
-  "homepage": "https://github.com/alecoldelf/CP04-JavaScript#readme"
+  "homepage": "https://github.com/alecoldelf/CP04-JavaScript-Ver1#readme"
 }
