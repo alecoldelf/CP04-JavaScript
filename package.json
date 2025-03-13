@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "cp04-fakename",
+  "version": "1.0.0",
+  "description": "gerador de nomes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecoldelf/CP04-JavaScript.git"
+  },
+  "keywords": [
+    "fakename"
+  ],
+  "author": "Alexandre Colvet, Felipe Molinari, Enzo Luciano, Livia Pereira",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alecoldelf/CP04-JavaScript/issues"
+  },
+  "homepage": "https://github.com/alecoldelf/CP04-JavaScript#readme"
+}
